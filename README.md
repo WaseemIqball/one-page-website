@@ -1,1 +1,1 @@
-# one-page-website
+# Tech-Academy-Projects
